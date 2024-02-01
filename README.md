@@ -3,7 +3,7 @@ This lab module is in correspondence to the theory course module for Natural Lan
 (https://surreylearn.surrey.ac.uk/d2l/home/239843) at University of Surrey.
 
 ## Installation/Access of Jupyter Notebook on local (heron) machines
-Please find the [instructions for local installation here](https://github.com/surrey-nlp/NLP-2023/blob/main/NLP-Jupyter_Notebooks_Installation.pdf).
+Please find the [instructions for local installation here](https://github.com/surrey-nlp/NLP-2024/blob/main/NLP-Jupyter_Notebooks_Installation.pdf).
 
 ## Access to SageMaker (preferred)
 
