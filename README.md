@@ -1,12 +1,4 @@
-# NLP-2024
-This lab module is in correspondence to the theory course module for Natural Language Processing (2024)
-(https://surreylearn.surrey.ac.uk/d2l/home/239843) at University of Surrey.
+# Lab 01
 
-## Installation/Access of Jupyter Notebook on local (heron) machines
-Please find the [instructions for local installation here](https://github.com/surrey-nlp/NLP-2023/blob/main/NLP-Jupyter_Notebooks_Installation.pdf).
-
-## Access to SageMaker (preferred)
-
-Please visit [https://studiolab.sagemaker.aws/](https://studiolab.sagemaker.aws/) and request a free account. <br/>
-After you verify the email account, you shall be added to a waitlist and will get access to Sagemaker Lab soon.
-
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/surrey-nlp/NLP-2024/blob/main/lab01/lab01.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surrey-nlp/NLP-2024/blob/main/lab01/lab01.ipynb)
