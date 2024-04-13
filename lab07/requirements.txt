@@ -1,0 +1,14 @@
+ipykernel
+torch==1.7.1
+pytorch-lightning==1.2.5
+hydra-core==1.1.0.dev5
+streamlit==0.79.0
+transformers
+TorchCRF
+datasets
+python-dotenv
+stqdm
+tqdm
+pytorch-nlp
+scikit-learn
+seqeval
